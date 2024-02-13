@@ -10,3 +10,6 @@ https://github.com/aws-amplify/amplify-flutter/tree/main/packages/authenticator/
 https://pub.dev/packages/amplify_authenticator
 
 
+https://ui.docs.amplify.aws/flutter/connected-components/authenticator
+
+
